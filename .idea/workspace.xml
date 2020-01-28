@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4eb8f949-98fd-4eb3-9991-f64e7e93f28b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/conley/zhu/leetcode/Code21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/conley/zhu/leetcode/Code19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,7 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Code20">
+  <component name="RunManager" selected="Application.Code19">
     <configuration name="Code11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.conley.zhu.leetcode.Code11" />
       <module name="zhu.main" />
@@ -74,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.conley.zhu.leetcode.Code20" />
+    <configuration name="Code19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.conley.zhu.leetcode.Code19" />
       <module name="zhu.main" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.conley.zhu.leetcode.Code5" />
+    <configuration name="Code20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.conley.zhu.leetcode.Code20" />
       <module name="zhu.main" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code19" />
         <item itemvalue="Application.Code20" />
         <item itemvalue="Application.Code15" />
         <item itemvalue="Application.Code11" />
         <item itemvalue="Application.Code6" />
-        <item itemvalue="Application.Code5" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +143,7 @@
       <workItem from="1579398780523" duration="14822000" />
       <workItem from="1579588681147" duration="8895000" />
       <workItem from="1579755156434" duration="13235000" />
-      <workItem from="1580096990499" duration="9340000" />
+      <workItem from="1580096990499" duration="11983000" />
     </task>
     <servers />
   </component>
