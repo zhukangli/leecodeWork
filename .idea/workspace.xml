@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4eb8f949-98fd-4eb3-9991-f64e7e93f28b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/conley/zhu/leetcode/Code34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/conley/zhu/leetcode/Code39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/conley/zhu/leetcode/Code53.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -11,7 +12,7 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/conley/zhu/leetcode/Code33.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/conley/zhu/leetcode/Code33.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/conley/zhu/leetcode/Code34.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/conley/zhu/leetcode/Code34.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,20 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Code34">
-    <configuration name="Code19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.conley.zhu.leetcode.Code19" />
-      <module name="zhu.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.conley.zhu.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Code39">
     <configuration name="Code22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.conley.zhu.leetcode.Code22" />
       <module name="zhu.main" />
@@ -121,13 +109,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Code39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.conley.zhu.leetcode.Code39" />
+      <module name="zhu.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.conley.zhu.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code39" />
         <item itemvalue="Application.Code34" />
         <item itemvalue="Application.Code33" />
         <item itemvalue="Application.Code31" />
         <item itemvalue="Application.Code22" />
-        <item itemvalue="Application.Code19" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +146,8 @@
       <workItem from="1579588681147" duration="8895000" />
       <workItem from="1579755156434" duration="13235000" />
       <workItem from="1580096990499" duration="27388000" />
-      <workItem from="1580267468963" duration="2035000" />
+      <workItem from="1580267468963" duration="8958000" />
+      <workItem from="1580384066180" duration="3374000" />
     </task>
     <servers />
   </component>
