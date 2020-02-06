@@ -2,8 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4eb8f949-98fd-4eb3-9991-f64e7e93f28b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/conley/zhu/leetcode/Code538.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/conley/zhu/leetcode/Code538$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/conley/zhu/leetcode/Code538.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/conley/zhu/leetcode/Code543$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/conley/zhu/leetcode/Code543.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/conley/zhu/leetcode/Code581.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/conley/zhu/leetcode/Code617$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/conley/zhu/leetcode/Code617.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/conley/zhu/leetcode/Code543.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/conley/zhu/leetcode/Code581.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/conley/zhu/leetcode/Code617.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/conley/zhu/leetcode/Code461.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/conley/zhu/leetcode/Code461.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,46 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Code461">
-    <configuration name="Code121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.conley.zhu.leetcode.Code121" />
-      <module name="zhu.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.conley.zhu.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code141" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.conley.zhu.leetcode.Code141" />
-      <module name="zhu.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.conley.zhu.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.conley.zhu.leetcode.Code206" />
-      <module name="zhu.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.conley.zhu.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Code617">
     <configuration name="Code448" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.conley.zhu.leetcode.Code448" />
       <module name="zhu.main" />
@@ -113,13 +91,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Code543" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.conley.zhu.leetcode.Code543" />
+      <module name="zhu.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.conley.zhu.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code581" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.conley.zhu.leetcode.Code581" />
+      <module name="zhu.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.conley.zhu.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code617" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.conley.zhu.leetcode.Code617" />
+      <module name="zhu.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.conley.zhu.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code617" />
+        <item itemvalue="Application.Code581" />
+        <item itemvalue="Application.Code543" />
         <item itemvalue="Application.Code461" />
         <item itemvalue="Application.Code448" />
-        <item itemvalue="Application.Code206" />
-        <item itemvalue="Application.Code141" />
-        <item itemvalue="Application.Code121" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +157,8 @@
       <workItem from="1580267468963" duration="8958000" />
       <workItem from="1580384066180" duration="10178000" />
       <workItem from="1580529337502" duration="2183000" />
-      <workItem from="1580616691352" duration="30792000" />
+      <workItem from="1580616691352" duration="43270000" />
+      <workItem from="1580958551232" duration="1844000" />
     </task>
     <servers />
   </component>
@@ -242,6 +260,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/conley/zhu/leetcode/Code461.java</url>
           <line>11</line>
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/conley/zhu/leetcode/Code543.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/conley/zhu/leetcode/Code543.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
