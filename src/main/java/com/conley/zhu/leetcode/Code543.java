@@ -12,47 +12,18 @@ public class Code543 {
       TreeNode right;
       TreeNode(int x) { val = x; }
   }
-
-    /**
-     * 这里是不对的，这里只考虑了根节点的情况
-     * @param root
-     * @return
-     */
+    int ans;
     public int diameterOfBinaryTree(TreeNode root) {
-        if(root == null){
-            return 0;
-        }
-        int leftSum = 0;
-        int rightSum = 0;
-        if(root.left != null){
-            leftSum = getTreeHigh(root.left);
-        }
-        if(root.right != null){
-            rightSum = getTreeHigh(root.right);
-        }
-        return leftSum + rightSum ;
+        ans = 1;
+        depth(root);
+        return ans - 1;
     }
-    Queue<TreeNode> queue = new LinkedList<>();
-
-    public int getTreeHigh(TreeNode root){
-        int sum = 0;
-        if(root != null){
-            queue.add(root);
-        }
-        while (!queue.isEmpty()) {
-            sum += 1;
-            int size = queue.size();
-            for (int i = 0; i < size; i++) {
-                TreeNode node = queue.poll();
-                if (node.left != null) {
-                    queue.add(node.left);
-                }
-                if (node.right != null) {
-                    queue.add(node.right);
-                }
-            }
-        }
-        return sum;
+    public int depth(TreeNode node) {
+        if (node == null) return 0;
+        int L = depth(node.left);
+        int R = depth(node.right);
+        ans = Math.max(ans, L+R+1);
+        return Math.max(L, R) + 1;
     }
 
     public static void main(String[] args) {

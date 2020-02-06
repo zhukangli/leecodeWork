@@ -9,7 +9,7 @@ public class Code617 {
   }
 
     /**
-     *  我写的狗屎一样，没有考虑返回值要赋给上一层，导致调了很久 
+     *  我写的狗屎一样，没有考虑返回值要赋给上一层，导致调了很久
      */
     public TreeNode mergeTrees(TreeNode t1, TreeNode t2) {
         TreeNode node = null;
