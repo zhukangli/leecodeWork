@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4eb8f949-98fd-4eb3-9991-f64e7e93f28b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/conley/zhu/leetcode/Code102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/conley/zhu/leetcode/Code98.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/conley/zhu/leetcode/Code105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/conley/zhu/leetcode/Code106.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/conley/zhu/leetcode/Code98.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/conley/zhu/leetcode/Code98.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +143,10 @@
       <workItem from="1580384066180" duration="10178000" />
       <workItem from="1580529337502" duration="2183000" />
       <workItem from="1580616691352" duration="43270000" />
-      <workItem from="1580958551232" duration="79081000" />
+      <workItem from="1580958551232" duration="81527000" />
+      <workItem from="1582031553726" duration="593000" />
+      <workItem from="1582037332724" duration="1145000" />
+      <workItem from="1582038521652" duration="8946000" />
     </task>
     <servers />
   </component>

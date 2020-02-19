@@ -1,5 +1,9 @@
 package com.conley.zhu.leetcode;
 
+/**
+ * 一个思路：中序遍历二叉树，遍历结果如果按照从小到大的顺序排列，则表明是二叉搜索树，否则不是二叉搜索树。
+ *
+ */
 public class Code98 {
     public class TreeNode {
       int val;
