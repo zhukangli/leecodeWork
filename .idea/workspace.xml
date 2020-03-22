@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4eb8f949-98fd-4eb3-9991-f64e7e93f28b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/conley/zhu/leetcode/Code148.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/conley/zhu/leetcode/Code152.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,6 +34,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -47,9 +48,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Code78">
-    <configuration name="Code46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.conley.zhu.leetcode.Code46" />
+  <component name="RunManager" selected="Application.Code152">
+    <configuration name="Code152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.conley.zhu.leetcode.Code152" />
       <module name="zhu.main" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code152" />
         <item itemvalue="Application.Code78" />
         <item itemvalue="Application.Code62" />
         <item itemvalue="Application.Code56" />
         <item itemvalue="Application.Code49" />
-        <item itemvalue="Application.Code46" />
       </list>
     </recent_temporary>
   </component>
@@ -146,8 +147,17 @@
       <workItem from="1582037332724" duration="1145000" />
       <workItem from="1582038521652" duration="11170000" />
       <workItem from="1582208472396" duration="1215000" />
-      <workItem from="1582287600653" duration="30949000" />
+      <workItem from="1582287600653" duration="32211000" />
+      <workItem from="1584844274657" duration="2270000" />
     </task>
+    <task id="LOCAL-00001" summary="148题提交">
+      <created>1583071327495</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583071327495</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +175,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="148题提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="148题提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
